@@ -1,24 +1,5 @@
-# README
+# CSC 324 Hello World Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello world Ruby on Rails app for CSC 324 @ Grinnell
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hosted at https://vast-plateau-31339.herokuapp.com/
